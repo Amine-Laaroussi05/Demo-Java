@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28d1428d-2459-4416-b194-50eb603760dc" name="Changes" comment="1er commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/semifir/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/semifir/Exo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/semifir/Exo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/semifir/Exo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/semifir/RouletteRusse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/semifir/chiffrageCesar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/semifir/tictactoe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,22 +46,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.tictactoe">
     <configuration name="Demo" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fr.semifir.Demo" />
-      <module name="demo-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fr.semifir.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.semifir.Exo1" />
       <module name="demo-java" />
       <extension name="coverage">
         <pattern>
@@ -135,9 +112,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tictactoe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.semifir.tictactoe" />
+      <module name="demo-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.semifir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.Exo1" />
+      <item itemvalue="Application.tictactoe" />
       <item itemvalue="Application.Exo3" />
       <item itemvalue="Application.RouletteRusse" />
       <item itemvalue="Application.chiffrageCesar" />
@@ -145,11 +135,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tictactoe" />
         <item itemvalue="Application.RouletteRusse" />
         <item itemvalue="Application.chiffrageCesar" />
         <item itemvalue="Application.Exo3" />
         <item itemvalue="Application.Exo2" />
-        <item itemvalue="Application.Exo1" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +152,14 @@
       <option name="presentableId" value="Default" />
       <updated>1651488030815</updated>
     </task>
+    <task id="LOCAL-00001" summary="1er commit">
+      <created>1651785730696</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651785730697</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
